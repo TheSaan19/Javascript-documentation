@@ -1,2 +1,2 @@
 # Javascript-methods
-Repositorio que explica los métodos más importantes de JS
+Repositorio que explica diferentes métodos y peculiaridades de JS
